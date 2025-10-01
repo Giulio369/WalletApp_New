@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="logo_purple">#793c9c</color>
+    <color name="logo_purple_light">#3b124e</color> <!-- opcional, para efeitos -->
+    <color name="logo_purple_text">#FFFFFF</color> <!-- texto branco sobre roxo -->
+</resources>
